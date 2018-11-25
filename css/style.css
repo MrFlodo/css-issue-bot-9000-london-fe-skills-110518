@@ -14,7 +14,7 @@ body {
   }
   
   .completed {
-    font-family: 12px;
+    font-family: Arial;
   }
   
   #tasks .completed {
